@@ -1,0 +1,16 @@
+2
+S
+A
+3
+a
+b
+L
+S
+7
+S aSbbb
+S aaSAb
+S aA
+S L
+A aAbbb
+A abb
+A L
